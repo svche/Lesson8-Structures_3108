@@ -127,6 +127,7 @@ namespace HW
 //- количеству страниц
 //- алфавиту(по автору)
 
+
 //- id
             Console.WriteLine("\n\nSorting by ID:");
 
